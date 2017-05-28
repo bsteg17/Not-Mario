@@ -3,9 +3,6 @@
 /* Constants */
 var FIRE_SPEED = 7;
 
-/**
- *
- */
 module.exports = exports = EnemyBomb;
 
 function EnemyBomb(position,velocity,levelPos) {
